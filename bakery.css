@@ -1,0 +1,18 @@
+.container{
+background-color: aqua;
+justify-content: center;
+margin: 100;
+padding:50px;
+text-align: center;
+font-family:Arial, sans-serif ;
+
+}
+.icons{
+    padding: 20;
+    
+
+}
+.fa-twitter{
+    width: 20px;
+    height: 20px;
+}
